@@ -1,0 +1,9 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+/dist/
+
+# Local agent instructions and planning documents
+/AGENT.md
+/AGENTS.md
+/docs/superpowers/
